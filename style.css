@@ -2,9 +2,22 @@ nav li {
 	display: inline;
 	text-transform: uppercase;
 	text-decoration: none;
+	margin: o, 25px o, 25px;
+	padding: 5%;
+
+
 }
 
+ nav { 
+	width:940px  ;
 
+ }
+ 
+ nav a {
+	font-size: 35px;
+	color: white ;
+	font-weight: lighter;
+ }
 
 #banner {
 	width: 100%;
