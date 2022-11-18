@@ -1,3 +1,17 @@
+nav li {
+	display: inline;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+
+
+#banner {
+	width: 100%;
+} 
+
+
+
 .title_contato {
 
     font-family: 'open_sansregular';
